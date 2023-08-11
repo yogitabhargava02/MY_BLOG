@@ -1,4 +1,4 @@
-# My Blog Website
+![page1](https://github.com/yogitabhargava02/MY_BLOG/assets/79744488/0aae66fe-8468-455e-9e0c-eb96a8fc3ac6)# My Blog Website
 
 Welcome to the My Blog website! This is a simple blog site built using React.js and Bootstrap.
 
@@ -38,6 +38,9 @@ Open your web browser and go to http://localhost:3000 to view the website.
 You can browse through the blog posts, filter by tags, and explore the different sections.
 
 To stop the development server, press Ctrl+C in the terminal.
+Project Screenshots
+![page1](https://github.com/yogitabhargava02/MY_BLOG/assets/79744488/fa055002-86d1-4539-b350-af2f9e65d21d)
+![page2](https://github.com/yogitabhargava02/MY_BLOG/assets/79744488/d8b23187-421b-4b97-bd0e-60e8f61a3f73)
 
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
