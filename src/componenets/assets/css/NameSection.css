@@ -1,0 +1,36 @@
+body{
+    font-family: Verdana,sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+}
+div{
+    display: block;
+    color: #000!important;
+    background-color: #fff!important;
+    margin-bottom: 10px;
+}
+.container-Myname{
+    /* padding: 0.01em 16px; */
+    margin-top: 16px!important;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+    box-sizing: inherit;
+}
+img{
+    border-style: none;
+    /* overflow-clip-margin: content-box;
+    overflow: clip; */
+    width: 30%;
+}
+.namedesc{
+font-size: 15px;
+    line-height: 1.5;
+    padding: 0.01em 16px;
+}
+@media (max-width: 767px) 
+{
+    .container-Myname{
+        text-align: center;
+
+    }
+  
+}

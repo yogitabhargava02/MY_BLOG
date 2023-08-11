@@ -1,0 +1,81 @@
+
+.blogbox{
+   color: #000!important; 
+   background-color: #fff!important;
+   
+   margin: 16px!important;
+   box-sizing: inherit;
+   box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19);
+}
+.blogtitle{
+   padding: 0.01em 16px
+}
+.date{
+   opacity: 0.60;
+}
+h5{
+   font-size: 18px;
+}
+.blogsdesc{
+   padding: 0.01em 16px;
+   box-sizing: inherit;
+   display: block;
+}
+.row one{
+   margin-left: 90%;
+} 
+.readmore{
+   color: #000!important;
+   background-color: #fff!important;
+   padding: 12px 24px!important;
+   border: 1px solid #ccc!important;
+   font: inherit;
+      margin: 90;
+      overflow: visible;
+      text-transform: none;
+      display: block;
+   margin-left: 10px;
+   
+    font-family: "Raleway", sans-serif;
+}
+
+comment{
+   float: right!important;
+   padding: 12px 24px!important;
+}
+.count{
+  
+      background-color: #000;
+      color: #fff;
+      display: inline-block;
+      padding-left: 8px;
+      padding-right: 8px;
+      text-align: center;
+}
+.img{
+   max-width: 100%;
+   width: 823px;
+   height: 283px;
+}
+.spacing{
+   margin-left: 20px;
+   margin-right: 20px;
+}
+/* Your existing CSS */
+
+/* Media query for screens smaller than 768px (mobile screens) */
+@media (max-width: 767px) {
+   .container {
+     flex-direction: column;
+   }
+   .blog-post{
+width:360px;
+text-align: center;
+justify-content: space-between;
+   }
+   .commentbox{
+      margin: 3px;
+   }
+   
+ }
+ 

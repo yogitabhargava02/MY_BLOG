@@ -1,0 +1,40 @@
+body{
+    background-color:#F1F1F1;
+
+}
+h1{
+    font-weight: bolder;
+    text-align: center;
+    font-size: 36px;
+
+
+    box-sizing: inherit;
+        font-family: "Font Awesome 6 Free", sans-serif;
+      
+      
+}
+p {
+    display: block;
+    text-align: center;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-family: "Raleway", sans-serif;
+}
+.unknown{
+    margin-left: 4px;
+    padding-left: 8px;
+    padding-right: 8px;
+background-color: black;
+color: white;
+text-align: center;
+display: inline-block;
+}
+.top{
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+.l8{
+    width: 66.66666%;
+}
